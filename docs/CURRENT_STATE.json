@@ -20,7 +20,7 @@
   },
   "public_push": "COMPLETE: main on public owner-created repository",
   "full_asset_rebuild_supported": false,
-  "next_action": "Use the current repository link. Account owner can request GitHub Support to remove unreferenced prior-identity commit caches; the request draft is kept locally, never in this repository.",
+  "next_action": "Investigate exact release asset dependencies and deterministic shader/native/package construction before claiming a complete source build.",
   "identity_cleanup": {
     "date": "2026-11-02",
     "account": "aabbccxxzzhh",
@@ -32,5 +32,11 @@
       "runtime_and_other_source": "All SOURCE_PROVENANCE hashes preserved",
       "limitation": "Unreferenced previous commits remain accessible by their old hashes on GitHub. Support cache removal is pending; do not claim complete erasure."
     }
+  },
+  "reproducible_build": {
+    "status": "IN_PROGRESS",
+    "goal": "Rebuild all410releasefiles and verify each SHA256; distinguish payload equality from ZIP equality",
+    "runtime_changes_allowed": false,
+    "game_or_install_changes_allowed": false
   }
 }
