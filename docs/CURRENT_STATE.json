@@ -20,12 +20,17 @@
   },
   "public_push": "COMPLETE: main on public owner-created repository",
   "full_asset_rebuild_supported": false,
-  "next_action": "Respond to the source question with the public implementation link. Future functional changes require their own validation; no full asset build was performed.",
+  "next_action": "Use the current repository link. Account owner can request GitHub Support to remove unreferenced prior-identity commit caches; the request draft is kept locally, never in this repository.",
   "identity_cleanup": {
     "date": "2026-11-02",
     "account": "aabbccxxzzhh",
     "public_history": "Recreated without previous account identifier in text or author/committer metadata",
     "runtime_changed": false,
-    "remote_verification": "PENDING"
+    "remote_verification": {
+      "visible_history": "PASS: current account identity only",
+      "tree": "55/55 remote Git blobs matched",
+      "runtime_and_other_source": "All SOURCE_PROVENANCE hashes preserved",
+      "limitation": "Unreferenced previous commits remain accessible by their old hashes on GitHub. Support cache removal is pending; do not claim complete erasure."
+    }
   }
 }
