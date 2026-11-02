@@ -1,0 +1,8 @@
+*.md text eol=lf
+*.lua text eol=lf
+*.mod text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.rs text eol=lf
+*.toml text eol=lf
+*.lock text eol=lf

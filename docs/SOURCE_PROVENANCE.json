@@ -1,0 +1,323 @@
+{
+  "baseline_version": "1.0.2",
+  "import_date": "2026-11-02",
+  "development_revision": "9e481231f22aaea3068b892bffc4eeb46c10bee2",
+  "runtime_text_files": 15,
+  "original_release_sha256": "60c78ebc7f95cc835d8f40cb95a7a2ffc90ee63ae4e4e56fe80264c9b8b56a5a",
+  "original_release_files": 410,
+  "original_release_bytes": 69332898,
+  "source_only": true,
+  "private_git_history_imported": false,
+  "generated_payloads_or_binaries_included": false,
+  "native_component": "Reforge 0.1.0-rb.2, MIT",
+  "runtime_comparison": "15/15 match recorded archive after CRLF normalization",
+  "files": [
+    {
+      "path": "src/RainbowBlood/info.json",
+      "sha256": "dcff2bf03a510d706f4ea9d0eb97c90305200eb82144ef5f39a3084ec955f572",
+      "source_path": "src/RainbowBlood/info.json",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "d0eec1be4e72fc35a512ef3d0f9168ce7b982497c090e382e75cc130164c1a92"
+    },
+    {
+      "path": "src/RainbowBlood/RainbowBlood.mod",
+      "sha256": "8276bf497f8be00beed197c5784e2480e4bb237e61c317b06ad39bf6b6b49e2f",
+      "source_path": "src/RainbowBlood/RainbowBlood.mod",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "8276bf497f8be00beed197c5784e2480e4bb237e61c317b06ad39bf6b6b49e2f"
+    },
+    {
+      "path": "src/RainbowBlood/scripts/mods/RainbowBlood/assets.lua",
+      "sha256": "37f519c0ab4ed5949f69183e90735932cd3f87a7972b3c9f671daf40dfe70b19",
+      "source_path": "src/RainbowBlood/scripts/mods/RainbowBlood/assets.lua",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "7dfb4fce8aebe78458a4223dd221a829cefe1e50a2598451111a9727c4495657"
+    },
+    {
+      "path": "src/RainbowBlood/scripts/mods/RainbowBlood/chain_attack_colour.lua",
+      "sha256": "317982b1e4f79c8db2153bcf773ac58bed4d29fdace0cdf7a5d2380a02eb1ec2",
+      "source_path": "src/RainbowBlood/scripts/mods/RainbowBlood/chain_attack_colour.lua",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "317982b1e4f79c8db2153bcf773ac58bed4d29fdace0cdf7a5d2380a02eb1ec2"
+    },
+    {
+      "path": "src/RainbowBlood/scripts/mods/RainbowBlood/early_bootstrap.lua",
+      "sha256": "210e4a6f0e623107971e20484335e7adfc7c1ae2a505ff81b5eca38c704d1722",
+      "source_path": "src/RainbowBlood/scripts/mods/RainbowBlood/early_bootstrap.lua",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "210e4a6f0e623107971e20484335e7adfc7c1ae2a505ff81b5eca38c704d1722"
+    },
+    {
+      "path": "src/RainbowBlood/scripts/mods/RainbowBlood/exact_blood_map.lua",
+      "sha256": "cd2a6c59fdfa378a9f5912f2638850183aac5f78b9d68ff33c7df90af16acf92",
+      "source_path": "src/RainbowBlood/scripts/mods/RainbowBlood/exact_blood_map.lua",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "943ae7aeb52b8a5f63026fc0f688722ecfdd6f5eacc202d683795e26dd625e42"
+    },
+    {
+      "path": "src/RainbowBlood/scripts/mods/RainbowBlood/polychromatic_compat.lua",
+      "sha256": "9cf0600700b5d0b8cad47acd636aa45fc9c31316f9eca20e948e19727faa8a3a",
+      "source_path": "src/RainbowBlood/scripts/mods/RainbowBlood/polychromatic_compat.lua",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "9cf0600700b5d0b8cad47acd636aa45fc9c31316f9eca20e948e19727faa8a3a"
+    },
+    {
+      "path": "src/RainbowBlood/scripts/mods/RainbowBlood/polychromatic_map.lua",
+      "sha256": "342ead6252449f67b324f8d46d64f84a2dbbd3063b6a32669d3952594eaeef6e",
+      "source_path": "src/RainbowBlood/scripts/mods/RainbowBlood/polychromatic_map.lua",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "6d63b91658e2b45fad4c7efe1c334fe91a0591e03f44edfa4f9a35bd62eca2f8"
+    },
+    {
+      "path": "src/RainbowBlood/scripts/mods/RainbowBlood/RainbowBlood.lua",
+      "sha256": "45a11618fcdbf6fcdf9926fe033ee49e0c5f7da84f51bbdbb1188dac79f57f15",
+      "source_path": "src/RainbowBlood/scripts/mods/RainbowBlood/RainbowBlood.lua",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "97ffa219be060792003675a82035bea198426ce19e4a7c218bd4826b2f4cc37e"
+    },
+    {
+      "path": "src/RainbowBlood/scripts/mods/RainbowBlood/RainbowBlood_data.lua",
+      "sha256": "54fe8cc04329d06a4ff1018ae5fd5cf75a69bbdb6d97a0e88899160c162201ec",
+      "source_path": "src/RainbowBlood/scripts/mods/RainbowBlood/RainbowBlood_data.lua",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "54fe8cc04329d06a4ff1018ae5fd5cf75a69bbdb6d97a0e88899160c162201ec"
+    },
+    {
+      "path": "src/RainbowBlood/scripts/mods/RainbowBlood/RainbowBlood_localization.lua",
+      "sha256": "b904c4844f3f9efa32cc9fa6a0496ef21c5095537fc50a372934383d3b879429",
+      "source_path": "src/RainbowBlood/scripts/mods/RainbowBlood/RainbowBlood_localization.lua",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "8a26928293e5af5f37fceec46631c4839ece084fa6eb62b6cb9d72d0e6fc84f0"
+    },
+    {
+      "path": "src/RainbowBlood/scripts/mods/RainbowBlood/reforge.lua",
+      "sha256": "1c0495a7031f387c3d6f838ee77990b983fbe467cf40a4e4baca0339b5d50118",
+      "source_path": "src/RainbowBlood/scripts/mods/RainbowBlood/reforge.lua",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "0646e0250f6a8d72160fa0174408846f0f03cc291a9066c1c453f5d09b5715a7"
+    },
+    {
+      "path": "src/RainbowBlood/scripts/mods/RainbowBlood/reforge_manifest.lua",
+      "sha256": "bb7e48bacc39f4e0c3f03e5abc84ca9da6f0ddc9c86e71211a120663f0ef830e",
+      "source_path": "src/RainbowBlood/scripts/mods/RainbowBlood/reforge_manifest.lua",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "bb7e48bacc39f4e0c3f03e5abc84ca9da6f0ddc9c86e71211a120663f0ef830e"
+    },
+    {
+      "path": "src/RainbowBlood/scripts/mods/RainbowBlood/wound_base_runtime.lua",
+      "sha256": "28ae328e551be16cbda8596ef0822042307e8a4ef413b7465988aae5b0367a59",
+      "source_path": "src/RainbowBlood/scripts/mods/RainbowBlood/wound_base_runtime.lua",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "59552f37ecd1a449300dcb27977f77f05e38e53ef6a1a68793f3cd7b854615bc"
+    },
+    {
+      "path": "src/RainbowBlood/scripts/mods/RainbowBlood/wound_gradient_map.lua",
+      "sha256": "0d652db7375b791a652f0f1398b48f2493741434fdd7436312e47b6c80b985bd",
+      "source_path": "src/RainbowBlood/scripts/mods/RainbowBlood/wound_gradient_map.lua",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "2570e50d9c12e53d8a3c7a69f2affb7a798a17d69ed7dd2723eba08834b1326f"
+    },
+    {
+      "path": "native/reforge/.cargo/config.toml",
+      "sha256": "aaef47787f437b4b6b096a6fc9c1c0de098871def9ca63bbc16d7bcdd58d2219",
+      "source_path": "native/reforge/.cargo/config.toml",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "aaef47787f437b4b6b096a6fc9c1c0de098871def9ca63bbc16d7bcdd58d2219"
+    },
+    {
+      "path": "native/reforge/Cargo.lock",
+      "sha256": "64205793a7951cb1ef369d0e3c7eca079d118449a5536b4556ab0cb46fcad50f",
+      "source_path": "native/reforge/Cargo.lock",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "32e332be689c7af383d773e670d31728f0332a54d82bf1e07ce9ae4c7bdac973"
+    },
+    {
+      "path": "native/reforge/Cargo.toml",
+      "sha256": "7c2f44753cf2efc06253b899533c38e0fcc1c63056c177217bde85c08a280263",
+      "source_path": "native/reforge/Cargo.toml",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "0e15c434151c779c04f177154ba61635d48517900a2134c77325759d04faa5cb"
+    },
+    {
+      "path": "native/reforge/harness/Cargo.toml",
+      "sha256": "67d9a6fc9a030583432b08ef33b475ac08e0d162858d05a6ae79e069450e21c8",
+      "source_path": "native/reforge/harness/Cargo.toml",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "67d9a6fc9a030583432b08ef33b475ac08e0d162858d05a6ae79e069450e21c8"
+    },
+    {
+      "path": "native/reforge/harness/src/main.rs",
+      "sha256": "e2631c976dfae8ecc36fa57e533f544171e6d3ebb24db3e94feb8632141486c3",
+      "source_path": "native/reforge/harness/src/main.rs",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "f4ab54ec1e87579ceaf4f6fd1a7bea181200e805ea7140e9fff7504aa1d8e274"
+    },
+    {
+      "path": "native/reforge/LICENSE",
+      "sha256": "8f14f8261c5045c22af63c0a103483395284ce7d1b6edd82218aacd1b765a82a",
+      "source_path": "native/reforge/LICENSE",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "8f14f8261c5045c22af63c0a103483395284ce7d1b6edd82218aacd1b765a82a"
+    },
+    {
+      "path": "native/reforge/reforge/build.rs",
+      "sha256": "60cfbdec310e6e076c2bb9854eabfe8b12e250010aa114ce540c8dd26dcaebc9",
+      "source_path": "native/reforge/reforge/build.rs",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "60cfbdec310e6e076c2bb9854eabfe8b12e250010aa114ce540c8dd26dcaebc9"
+    },
+    {
+      "path": "native/reforge/reforge/Cargo.toml",
+      "sha256": "d9bd8cbdf2e49d28937e02dcaf6c28d12fd8c50054d909fe16d26a5127c7b29a",
+      "source_path": "native/reforge/reforge/Cargo.toml",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "d9bd8cbdf2e49d28937e02dcaf6c28d12fd8c50054d909fe16d26a5127c7b29a"
+    },
+    {
+      "path": "native/reforge/reforge/reforge.rc",
+      "sha256": "e05aade1f7c45b269206418a8418ba318ee65e6be5a18a39168983d5b66d55b8",
+      "source_path": "native/reforge/reforge/reforge.rc",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "e05aade1f7c45b269206418a8418ba318ee65e6be5a18a39168983d5b66d55b8"
+    },
+    {
+      "path": "native/reforge/reforge/src/ffi_util.rs",
+      "sha256": "433f0e01948a978fc259f483a55fdbd156bcff884db6713d87b92655dcccdc74",
+      "source_path": "native/reforge/reforge/src/ffi_util.rs",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "433f0e01948a978fc259f483a55fdbd156bcff884db6713d87b92655dcccdc74"
+    },
+    {
+      "path": "native/reforge/reforge/src/hooks.rs",
+      "sha256": "1791e9d9332b2b9658e58ee94a14d10a6113107646224c465e66422f6a2c255a",
+      "source_path": "native/reforge/reforge/src/hooks.rs",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "470258dad277c8bf0805f26ed1391a41dfb6f45f289eb9a903ab36659ddbf7a2"
+    },
+    {
+      "path": "native/reforge/reforge/src/lib.rs",
+      "sha256": "a6c927f7819e279e37b2e6396da0a4c3c344e322fe92cde6895907fe56dfcf11",
+      "source_path": "native/reforge/reforge/src/lib.rs",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "a6c927f7819e279e37b2e6396da0a4c3c344e322fe92cde6895907fe56dfcf11"
+    },
+    {
+      "path": "native/reforge/reforge/src/paths.rs",
+      "sha256": "4289074f162fa4a5ede1d6628e818b58d09ea12d6cfd77494312d5b1fd247ba5",
+      "source_path": "native/reforge/reforge/src/paths.rs",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "4289074f162fa4a5ede1d6628e818b58d09ea12d6cfd77494312d5b1fd247ba5"
+    },
+    {
+      "path": "native/reforge/reforge/src/state.rs",
+      "sha256": "c592ce557003091efe58c51fe2ffb689bfa33195733ae922ca7b0f153ede3b4c",
+      "source_path": "native/reforge/reforge/src/state.rs",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "cf348b3e2ed68d338922833e5117b18eb53ceb710705a08e02ea0dabb626a5ed"
+    },
+    {
+      "path": "native/reforge/reforge/src/trace.rs",
+      "sha256": "b330f71d7006cea1ad767ead1ba5e1ba0c8ba3256a859eb3d7a94dc703dd384a",
+      "source_path": "native/reforge/reforge/src/trace.rs",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "b330f71d7006cea1ad767ead1ba5e1ba0c8ba3256a859eb3d7a94dc703dd384a"
+    },
+    {
+      "path": "LICENSES/Reforge-MIT.txt",
+      "sha256": "8f14f8261c5045c22af63c0a103483395284ce7d1b6edd82218aacd1b765a82a",
+      "source_path": "native/reforge/LICENSE",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "8f14f8261c5045c22af63c0a103483395284ce7d1b6edd82218aacd1b765a82a"
+    },
+    {
+      "path": "tools/shaders/bundle8.py",
+      "sha256": "33bf25406df19d08eaa2bb043d2f6ec229855232b6b8f49605fa6db91854e542",
+      "source_path": "tools/colour_only/bundle8.py",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "33bf25406df19d08eaa2bb043d2f6ec229855232b6b8f49605fa6db91854e542"
+    },
+    {
+      "path": "tools/shaders/ground_base_colour.py",
+      "sha256": "126f610700a27215ed266d1d99f308d67bfa067cdaef2ab682885b32cd876f62",
+      "source_path": "tools/colour_only/ground_base_colour.py",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "126f610700a27215ed266d1d99f308d67bfa067cdaef2ab682885b32cd876f62"
+    },
+    {
+      "path": "tools/shaders/native_reference_colour.py",
+      "sha256": "5eda3c2b89c7d48e3b567841de0c9ccb6b8073ffd099a8fc52d507f6d08e7468",
+      "source_path": "tools/colour_only/native_reference_colour.py",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "5eda3c2b89c7d48e3b567841de0c9ccb6b8073ffd099a8fc52d507f6d08e7468"
+    },
+    {
+      "path": "tools/shaders/native_shader_stages.py",
+      "sha256": "bf7fdb97cfc85abfe6f975fde733e3db563df48d0899512d018f911d4a385d02",
+      "source_path": "tools/colour_only/native_shader_stages.py",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "bf7fdb97cfc85abfe6f975fde733e3db563df48d0899512d018f911d4a385d02"
+    },
+    {
+      "path": "tools/shaders/native_constant_layouts.py",
+      "sha256": "84f63742af3763467803d966c042eff3a14b31a908d995a4067dd468868ccbcf",
+      "source_path": "tools/colour_only/native_constant_layouts.py",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "84f63742af3763467803d966c042eff3a14b31a908d995a4067dd468868ccbcf"
+    },
+    {
+      "path": "tools/shaders/native_instance_packets.py",
+      "sha256": "4e98814f23728cc89ae97d5cdf8a490b095a08bb8c19d35cef9eb189e143bbda",
+      "source_path": "tools/colour_only/native_instance_packets.py",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "4e98814f23728cc89ae97d5cdf8a490b095a08bb8c19d35cef9eb189e143bbda"
+    },
+    {
+      "path": "tools/shaders/orange_colour.py",
+      "sha256": "b93095c8a73e0f28172f6935739bd8240479fe061af5cf37c566be6712ba69c0",
+      "source_path": "tools/colour_only/orange_colour.py",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "b93095c8a73e0f28172f6935739bd8240479fe061af5cf37c566be6712ba69c0"
+    },
+    {
+      "path": "tools/shaders/airborne_diffuse_floor.py",
+      "sha256": "c5e9aed0dc677cd84ed2b77ed7504210163918c97843c12cc82c67f192a6e995",
+      "source_path": "tools/colour_only/airborne_diffuse_floor.py",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "c5e9aed0dc677cd84ed2b77ed7504210163918c97843c12cc82c67f192a6e995"
+    },
+    {
+      "path": "tools/shaders/airborne_final_output.py",
+      "sha256": "21209968391ffbd5dab574a92cfa29cb1083db00cb56b700bf38a15bf694dbad",
+      "source_path": "tools/colour_only/airborne_final_output.py",
+      "adaptation": "Import shared functions from shader_common; transformation body unchanged",
+      "export_sha256_before_git_normalization": "2a99c6358117a6b6e1a3b2b4ac837faba33ff064b4c65c76fd77a79c62c428df"
+    },
+    {
+      "path": "tests/release_localization_test.lua",
+      "sha256": "ee0aa085728ce3ddb8c74a51f81ad15e6e3a15e831b49c5f11a296d5d8ee8355",
+      "source_path": "tools/colour_only/release_localization_test.lua",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "ee0aa085728ce3ddb8c74a51f81ad15e6e3a15e831b49c5f11a296d5d8ee8355"
+    },
+    {
+      "path": "tests/chain_attack_colour_test.lua",
+      "sha256": "e1cc10fca6384b6ab9963cab1b7792aa542ae108703fcc1ab538d16079367a41",
+      "source_path": "tools/colour_only/chain_attack_colour_test.lua",
+      "adaptation": "none",
+      "export_sha256_before_git_normalization": "e1cc10fca6384b6ab9963cab1b7792aa542ae108703fcc1ab538d16079367a41"
+    }
+  ],
+  "extracted_shader_helpers": {
+    "source_path": "tools/colour_only/build.py",
+    "functions": [
+      "assert_diff",
+      "canonical_body",
+      "fp",
+      "h",
+      "parts",
+      "sha"
+    ],
+    "destination": "tools/shaders/shader_common.py"
+  },
+  "hash_convention": "sha256 values identify Git blob bytes (LF-normalized text); export_sha256_before_git_normalization records original local export bytes."
+}

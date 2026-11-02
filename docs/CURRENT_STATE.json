@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-02",
+  "version": "1.0.2",
+  "repository": "aabbccxxzzhh/rainbowblood",
+  "scope": "Curated public source import, no private history",
+  "runtime_changed": false,
+  "binary_built": false,
+  "package_generated": false,
+  "installed": false,
+  "game_launched": false,
+  "new_user_runtime_test": false,
+  "offline_validation": {
+    "runtime_text_to_release": "15/15 match after CRLF normalization",
+    "lua_syntax": "All13Lua files and.mod passed Lua5.1 syntax",
+    "localization": "21 keys x12languages; defaults and migration passed",
+    "attack_colour_scope": "PASS lazy selection, owner/world isolation, near/far reuse, error/reset cleanup",
+    "python_helpers": "10 syntax/import checks passed;6 extracted functions AST-exact",
+    "remote_blobs": "55/55 matched published GitHub tree before identity cleanup; runtime checks unchanged",
+    "privacy": "Curated text tree checked for personal home paths and common token/private-key patterns; no matches; no claim of exhaustive security audit"
+  },
+  "public_push": "COMPLETE: main on public owner-created repository",
+  "full_asset_rebuild_supported": false,
+  "next_action": "Respond to the source question with the public implementation link. Future functional changes require their own validation; no full asset build was performed.",
+  "identity_cleanup": {
+    "date": "2026-11-02",
+    "account": "aabbccxxzzhh",
+    "public_history": "Recreated without previous account identifier in text or author/committer metadata",
+    "runtime_changed": false,
+    "remote_verification": "PENDING"
+  }
+}

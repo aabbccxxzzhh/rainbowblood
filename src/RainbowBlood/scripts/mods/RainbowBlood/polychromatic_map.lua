@@ -1,0 +1,9 @@
+return {
+    ["bundle/data/2d/2d197c488c9bebc2"] = { file = "payload/polychromatic_compat/2d197c488c9bebc2.bin", poly_sha256 = "d50a36cb2dde106f94c2466d22d6dac29675b98276555a2b701b3b1c5d2df61b", sha256 = "8f4d9da89464916252b0d3e835a0ca6579286c77855fad028b0cab3bb4bdf802" },
+    ["bundle/data/35/35ef09cd5356eead"] = { file = "payload/polychromatic_compat/35ef09cd5356eead.bin", poly_sha256 = "0cae6ca739bc7bc1c65af32ba9ead0a4eb8030569c90c01f4e665efd0a4d5486", sha256 = "f8ed47bf86a1126d60a1663009378cc026b07dfa327a47b664a1ce2ac3b132b1" },
+    ["bundle/data/44/4490a3f7f03c1e69"] = { file = "payload/polychromatic_compat/4490a3f7f03c1e69.bin", poly_sha256 = "f7fad8386b49f1ab00a142e77ac358e071fc758ed53c03a0ff15911f8ebb5510", sha256 = "dd5c95c040f1595f5f3a5dec8a39763debb5c79979667aa51aeb183597880052" },
+    ["bundle/data/4f/4f3c20108df32ff2"] = { file = "payload/polychromatic_compat/4f3c20108df32ff2.bin", poly_sha256 = "2275d95b0ae5e04a0fe3e10eb93050fc5d3f445d929f2d5130c5d55a3e62efd5", sha256 = "abb2900b79dae56c64470471e12c73a7393d3bb405bf293328e5705cf98d13e4" },
+    ["bundle/data/ad/ade3d7d830f2254a"] = { file = "payload/polychromatic_compat/ade3d7d830f2254a.bin", poly_sha256 = "d3752cf2ec681fbed9684274177aad961ff5d69b75907faab6b624686b1b8ee0", sha256 = "9b89b6b7a8cf1c4f75414e36e2553500bdcd2bd973fc1b3763c4c9ba163bfc34" },
+    ["bundle/data/b2/b250a66edd2382b7"] = { file = "payload/polychromatic_compat/b250a66edd2382b7.bin", poly_sha256 = "44d1619cd6665c4522f4fefe27ee26906d1644c1ab35d61b2381ede13ed5a707", sha256 = "d2cad05bf917a93a92be6ca764f41578fdb273cbe330d66dc8fb74be20bb7f78" },
+    ["bundle/data/eb/eb09dd77efe06a9d"] = { file = "payload/polychromatic_compat/eb09dd77efe06a9d.bin", poly_sha256 = "b8e206ab77de676f2297a420ec245e4f88399b019fd5fc6d816520cf6c900b20", sha256 = "cdbe7ae84155819f4c10e69104c3171294a8e31f63b5c1fa921c4fc2c2c66a5b" },
+}
