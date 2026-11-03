@@ -10,7 +10,7 @@ Download the complete mod from [Nexus Mods](https://www.nexusmods.com/warhammer4
 
 Reforge is bundled with the release; no separate installation is needed. Polychromatic is optional. Enable Gibbing and adjust the game's blood-related settings for the full effect. Remove the RainbowBlood load-order entry and restart the game to restore vanilla blood.
 
-**This repository contains source, not a ready-to-install mod package.** GitHub's source ZIP omits generated game-dependent payloads and the native DLL.
+**This repository contains source and an offline release builder.** GitHub's source ZIP is not ready to install: use the [build instructions](docs/DEVELOPMENT.md) to generate the game-dependent payloads and native DLL, or download the ready-to-use Nexus release.
 
 ## Settings
 
@@ -27,7 +27,8 @@ Reforge is bundled with the release; no separate installation is needed. Polychr
 | --- | --- |
 | `src/RainbowBlood/` | The 15 runtime text files corresponding to release 1.0.2 |
 | `native/reforge/` | Bundled Reforge source, including RainbowBlood startup fixes |
-| `tools/shaders/` | Selected binary-format and shader-colour transformation helpers |
+| `tools/` | Offline release builder, shader assembler and format helpers |
+| `release/` | Version 1.0.2 file hashes and source transformation recipes |
 | `tests/` | Portable Lua checks for localisation and attack colour scope |
 | `docs/` | Implementation, development and source-provenance notes |
 | `LICENSES/` | Third-party license notices |

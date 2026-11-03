@@ -1,11 +1,11 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "version": "1.0.2",
   "repository": "aabbccxxzzhh/rainbowblood",
   "scope": "Curated public source import, no private history",
   "runtime_changed": false,
-  "binary_built": false,
-  "package_generated": false,
+  "binary_built": true,
+  "package_generated": true,
   "installed": false,
   "game_launched": false,
   "new_user_runtime_test": false,
@@ -19,8 +19,8 @@
     "privacy": "Curated text tree checked for personal home paths and common token/private-key patterns; no matches; no claim of exhaustive security audit"
   },
   "public_push": "COMPLETE: main on public owner-created repository",
-  "full_asset_rebuild_supported": false,
-  "next_action": "Investigate exact release asset dependencies and deterministic shader/native/package construction before claiming a complete source build.",
+  "full_asset_rebuild_supported": true,
+  "next_action": "Use the documented offline builder with matching local game, Polychromatic and compiler inputs. Runtime and installation are unchanged.",
   "identity_cleanup": {
     "date": "2026-11-02",
     "account": "aabbccxxzzhh",
@@ -34,9 +34,16 @@
     }
   },
   "reproducible_build": {
-    "status": "IN_PROGRESS",
+    "status": "COMPLETE_LOCAL_VERIFICATION",
     "goal": "Rebuild all410releasefiles and verify each SHA256; distinguish payload equality from ZIP equality",
     "runtime_changes_allowed": false,
-    "game_or_install_changes_allowed": false
+    "game_or_install_changes_allowed": false,
+    "files_matched": 410,
+    "materials_rebuilt": 388,
+    "containers_rebuilt": 4,
+    "shader_program_recipes": 1917,
+    "archive_byte_identical": true,
+    "archive_sha256": "60c78ebc7f95cc835d8f40cb95a7a2ffc90ee63ae4e4e56fe80264c9b8b56a5a",
+    "release_zip_used_as_build_input": false
   }
 }
