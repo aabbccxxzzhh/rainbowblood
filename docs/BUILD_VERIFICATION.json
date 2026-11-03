@@ -19,5 +19,12 @@
     "localization": "21 keys x 12 languages; defaults and migration PASS",
     "attack_scope": "PASS"
   },
-  "notes": "Release archive is not a build input. Local game/Polychromatic inputs and matching Windows toolchain are required."
+  "notes": "Release archive is not a build input. Local game/Polychromatic inputs and matching Windows toolchain are required.",
+  "clean_git_export_rebuild": {
+    "source_commit": "827737a",
+    "files_matched": 410,
+    "zip_sha256": "60c78ebc7f95cc835d8f40cb95a7a2ffc90ee63ae4e4e56fe80264c9b8b56a5a",
+    "identical_to_original_zip": true,
+    "untracked_build_inputs_from_checkout": false
+  }
 }

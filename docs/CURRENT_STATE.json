@@ -44,6 +44,7 @@
     "shader_program_recipes": 1917,
     "archive_byte_identical": true,
     "archive_sha256": "60c78ebc7f95cc835d8f40cb95a7a2ffc90ee63ae4e4e56fe80264c9b8b56a5a",
-    "release_zip_used_as_build_input": false
+    "release_zip_used_as_build_input": false,
+    "clean_git_export_verified": true
   }
 }
